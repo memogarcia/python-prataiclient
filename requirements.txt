@@ -1,0 +1,9 @@
+setuptools>=16.0
+pbr>=1.6
+
+cliff!=1.16.0,>=1.15.0 # Apache-2.0
+python-keystoneclient>=1.6.0,!=1.8.0
+
+requests==2.10.0
+
+Sphinx==1.4.4
